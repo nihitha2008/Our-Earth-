@@ -1,0 +1,53 @@
+ body {
+   background-color: PowderBlue;
+ }
+
+ hr {
+   border-style: none;
+   border-top-style: dotted;
+   border-color: grey;
+   border-width: 5px;
+   width: 5%;
+ }
+.Earth:hover{
+  background-color: black;
+}
+  .Earth {
+    border-radius: 200%;
+    background-color: PowderBlue;
+  }
+ h1 {
+   font-size: 50px;
+   align: top-right;
+ }
+
+ h2 {
+   font-size: 35px;
+ }
+
+ p {
+   font-size: 20px;
+ }
+
+ h3 {
+   font-size: 30px;
+ }
+
+ ul {
+   font-size: 20px;
+ }
+
+ ol {
+   font-size: 20px;
+ }
+
+ table, th, td {
+   font-size: 20px;
+   text-align: center;
+   border: 1px solid black;
+   border-collapse: collapse;
+ }
+
+ .Start {
+   text-align: center;
+ }
